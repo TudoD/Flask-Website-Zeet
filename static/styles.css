@@ -1,0 +1,25 @@
+/* Стили для страницы */
+body {
+ font-family: Arial, sans-serif;
+ background-color: #b1eaff;
+ margin: 0;
+ padding: 0;
+}
+.container {
+ max-width:500px;
+ height: 1500px;
+ margin: 0 auto;
+ padding: 90px;
+ background-color: #fe7669;
+ border-radius: 55px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+/* Стили для заголовка */
+h1 {
+ color: #333;
+}
+/* Стили для текста */
+p {
+ color: green; /* Зеленый цвет текста */
+ line-height: 1.5;
+}
